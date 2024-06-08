@@ -11,5 +11,6 @@
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.5;
-    background: url('https://raw.githubusercontent.com/vyomakesh09/exoplanet-ml/master/Solo%20Leveling%20Sung%20Jin%20Woo.gif');
+    background: url('https://raw.githubusercontent.com/vyomakesh09/exoplanet-ml/master/Video 1313149077618556929.mp4');
+    
 ]{x0000}$}
