@@ -11,6 +11,6 @@
     background-repeat: no-repeat;
     background-position: center;
     opacity: 0.5;
-    background: url('https://raw.githubusercontent.com/vyomakesh09/exoplanet-ml/master/Cyberpunk%20Images.gif, https://raw.githubusercontent.com/vyomakesh09/exoplanet-ml/master/Brutalis%20semi-hiatus.gif');
+    background: url('https://raw.githubusercontent.com/vyomakesh09/exoplanet-ml/master/Brutalis%20semi-hiatus.gif');
     
 ]{x0000}$}
